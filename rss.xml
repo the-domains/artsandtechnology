@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[artsandtechnology]]></title>
+        <description><![CDATA[artsandtechnology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 18:52:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Great Debate: Film vs Digital ]]></title>
+            <description><![CDATA[<article><h1>The Great Debate: Film vs Digital </h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a1700d468eb36a88be49175d4ddb647fc5fba83.jpg"></article>]]></description>
+            <link>undefinedthe-great-debate-film-vs-digital/index.html</link>
+            <guid isPermaLink="false">d019e5d2-dacf-4314-a333-de1c9ac60b8c</guid>
+            <pubDate>Fri, 11 Mar 2016 18:51:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
