@@ -1,28 +1,18 @@
-name: artsandtechnology
-favicon: null
-layout_spectrum: 0.612638124730438
-typography_spectrum: 0.8672022460959852
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#C0C0C0'
+    - '#000000'
+    - '#909090'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.5591633254662156
   lightness: 0.863177542341873
-  saturation: 0.18895310861989856
   rhythmicContrast: 0.998492996674031
+  saturation: 0.18895310861989856
+cta: {}
+layout_spectrum: 0.612638124730438
+name: artsandtechnology
+opengraph: {}
 purpose: []
+typography_spectrum: 0.8672022460959852
